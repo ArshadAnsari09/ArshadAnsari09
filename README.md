@@ -22,12 +22,17 @@ Software Development Engineer | Full Stack (MERN) | Microservices | AWS | Redis
 
 ## 🚀 About Me
 - 🎓 B.Tech in Electronics & Communication Engineering — **NSUT East Campus (CGPA: 8.7)**
-- 💼 **2+ years of professional experience** in Full Stack & Backend Development
-- ⚙️ Currently working as **Software Development Engineer @ Adda247**
-- 🚀 Built and scaled microservices handling **1M+ users**
-- 🧠 Strong in **Data Structures, Algorithms & System Design**
-- ☁️ Hands-on experience with **AWS (Lambda, SQS, SES), Redis, CI/CD**
-- 🏆 Solved **1200+ problems on LeetCode & GeeksforGeeks**
+- 💼 **2+ years of professional experience** in Full Stack & Backend Development across SaaS platforms
+- ⚙️ Currently working as **Software Development Engineer @ Adda247**, building scalable production systems
+- 🚀 Designed and scaled **high-availability microservices supporting 1M+ users** using Node.js, MongoDB, Redis, and AWS
+- 🔐 Led large-scale **SSO migration for 1M+ users**, improving onboarding reliability and authentication performance
+- 💳 Built secure **payment systems integrating Razorpay APIs** supporting EMI and partial payments
+- ⚡ Improved system performance and latency through **Redis caching, distributed system optimizations, and API tuning**
+- 🧠 Strong foundation in **Data Structures, Algorithms, OOP, and System Design**
+- ☁️ Hands-on experience with **AWS (Lambda, SQS, SES), CI/CD pipelines, and cloud-native architectures**
+- 🛠️ Comfortable owning features end-to-end — from **design → development → deployment → monitoring**
+- 🏆 Solved **1200+ problems on LeetCode & GeeksforGeeks** with consistent ranking performance
+- 🎯 Passionate about building **scalable products, clean APIs, and high-performance systems**
 
 ---
 
