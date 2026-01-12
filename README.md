@@ -76,26 +76,22 @@ AWS (Lambda, SQS, SES), Git, GitHub, Jenkins, CI/CD Pipelines
 
 ---
 
+### 💻 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/Arshad_ansari/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-600%2B%20Problems-orange?style=for-the-badge&logo=LeetCode&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/arshadan9lo4" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-600%2B%20Problems-green?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 🏆 Achievements
 - 🥇 **600+ problems solved on LeetCode** (400+ day streak)
 - 🥈 **600+ problems solved on GeeksforGeeks**
 - 🏅 Ranked **3rd / 409** in institute on GFG
 - 🌍 Global Rank **3424 / 22683** in LeetCode Biweekly Contest 98
-
----
-
-### 💻 Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/ArshadAnsari09/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-600%2B%20Problems-orange?style=for-the-badge&logo=LeetCode&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/ArshadAnsari09" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-600%2B%20Problems-green?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.codeforces.com/profile/ArshadAnsari09" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-Active-blue?style=for-the-badge&logo=Codeforces&logoColor=white" />
-  </a>
-</p>
