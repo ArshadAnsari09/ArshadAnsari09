@@ -11,9 +11,15 @@ Software Development Engineer | Full Stack (MERN) | Microservices | AWS | Redis
   <a href="mailto:arshadansari253678@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="32" height="32" />
   </a>
+    &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/Arshad_ansari/" target="_blank">
-    <img width="1161" height="607" alt="Screenshot 2026-01-12 at 1 56 57 PM" src="https://github.com/user-attachments/assets/31a9c6c5-ce51-4a5c-8de5-737728641f29" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="32" height="32"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/arshadan9lo4" target="_blank">
+    <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" width="32" height="32"/>
+  </a>
+  <img width="1161" height="607" alt="Screenshot 2026-01-12 at 1 56 57 PM" src="https://github.com/user-attachments/assets/31a9c6c5-ce51-4a5c-8de5-737728641f29" />
 </p>
 
 
