@@ -13,6 +13,8 @@ Software Development Engineer | Full Stack (MERN) | Microservices | AWS | Redis
   </a>
 </p>
 
+<img width="1161" height="607" alt="Screenshot 2026-01-12 at 1 56 57 PM" src="https://github.com/user-attachments/assets/31a9c6c5-ce51-4a5c-8de5-737728641f29" />
+
 
 ---
 
