@@ -84,14 +84,18 @@ AWS (Lambda, SQS, SES), Git, GitHub, Jenkins, CI/CD Pipelines
 
 ---
 
-## 📊 GitHub Stats
+### 💻 Coding Profiles
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArshadAnsari09&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=ArshadAnsari09&theme=tokyonight)
-
-
----
-
-## 🤝 Let's Connect
-- 💼 LinkedIn: https://www.linkedin.com/in/arshad-ansari-85135120a/
-- 📧 Email: arshadansari253678@gmail.com
+<p align="center">
+  <a href="https://leetcode.com/ArshadAnsari09/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-600%2B%20Problems-orange?style=for-the-badge&logo=LeetCode&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/ArshadAnsari09" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-600%2B%20Problems-green?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.codeforces.com/profile/ArshadAnsari09" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Active-blue?style=for-the-badge&logo=Codeforces&logoColor=white" />
+  </a>
+</p>
