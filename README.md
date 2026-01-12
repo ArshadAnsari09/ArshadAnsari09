@@ -31,7 +31,7 @@ Software Development Engineer | Full Stack (MERN) | Microservices | AWS | Redis
 
 ## 🚀 About Me
 - 🎓 B.Tech in Electronics & Communication Engineering — **NSUT East Campus (CGPA: 8.7)**
-- 💼 **2+ years of professional experience** in Full Stack & Backend Development across SaaS platforms
+- 💼 **2+ years of professional experience** in Full Stack Development across SaaS platforms
 - ⚙️ Currently working as **Software Development Engineer @ Adda247**, building scalable production systems
 - 🚀 Designed and scaled **high-availability microservices supporting 1M+ users** using Node.js, MongoDB, Redis, and AWS
 - 🔐 Led large-scale **SSO migration for 1M+ users**, improving onboarding reliability and authentication performance
