@@ -42,5 +42,5 @@
 ---
 
 ### 🤝 Connect With Me
-- 💼 LinkedIn: [https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/arshad-ansari-85135120a/)
+- 💼 LinkedIn: https://www.linkedin.com/in/arshad-ansari-85135120a/
 - 📧 Email: arshadansari253678@gmail.com
