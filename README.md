@@ -60,15 +60,6 @@ AWS (Lambda, SQS, SES), Git, GitHub, Jenkins, CI/CD Pipelines
 
 ---
 
-### 🔹 Job Portal Platform  
-- Developed using **React.js, Node.js, Strapi, MongoDB**
-- Implemented secure **OTP verification and email automation using AWS SES**
-- Integrated **AI-based interview platform hosted on VM**
-- Built **real-time interview status updates using Socket.IO & webhooks**
-- Improved platform performance by **50%**
-
----
-
 ### 🔹 URL Shrinker  
 💻 Repo: https://github.com/ArshadAnsari09/urlShortener  
 
