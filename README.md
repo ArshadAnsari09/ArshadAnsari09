@@ -19,11 +19,13 @@ Software Development Engineer | Full Stack (MERN) | Microservices | AWS | Redis
   <a href="https://www.geeksforgeeks.org/profile/arshadan9lo4" target="_blank">
     <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" width="32" height="32"/>
   </a>
-  <img width="1161" height="607" alt="Screenshot 2026-01-12 at 1 56 57 PM" src="https://github.com/user-attachments/assets/31a9c6c5-ce51-4a5c-8de5-737728641f29" />
-  <img width="978" height="704" alt="Screenshot 2026-01-12 at 2 05 35 PM" src="https://github.com/user-attachments/assets/9600b3d4-635f-4ead-b3c3-46ac363601f4" />
-
 </p>
 
+<p align="center">
+  <!-- Screenshots side by side -->
+  <img src="https://github.com/user-attachments/assets/31a9c6c5-ce51-4a5c-8de5-737728641f29" alt="LeetCode Screenshot" width="550" style="margin-right:10px;" />
+  <img src="https://github.com/user-attachments/assets/9600b3d4-635f-4ead-b3c3-46ac363601f4" alt="GFG Screenshot" width="550" />
+</p>
 
 ---
 
