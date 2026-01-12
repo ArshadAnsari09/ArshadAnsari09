@@ -23,7 +23,7 @@ Software Development Engineer | Full Stack (MERN) | Microservices | AWS | Redis
 
 <p align="center">
   <!-- Screenshots side by side -->
-  <img src="https://github.com/user-attachments/assets/31a9c6c5-ce51-4a5c-8de5-737728641f29" alt="LeetCode Screenshot" width="350" height="183" style="margin-right:10px;" />
+  <img width="1150" height="600" alt="Screenshot 2026-01-12 at 2 51 11 PM" src="https://github.com/user-attachments/assets/9a90fb99-269d-4250-aab2-67abfa0ffff1" width="350" height="183" style="margin-right:10px;"/>
   <img src="https://github.com/user-attachments/assets/9600b3d4-635f-4ead-b3c3-46ac363601f4" alt="GFG Screenshot" width="350" height="183"/>
 </p>
 
