@@ -11,10 +11,6 @@ Software Development Engineer | Full Stack (MERN) | Microservices | AWS | Redis
   <a href="mailto:arshadansari253678@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="32" height="32" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ArshadAnsari09">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="32" height="32" />
-  </a>
 </p>
 
 
