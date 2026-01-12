@@ -5,15 +5,18 @@ Software Development Engineer | Full Stack (MERN) | Microservices | AWS | Redis
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arshad-ansari-85135120a/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" height="32" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:arshadansari253678@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="32" height="32" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ArshadAnsari09">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="32" height="32" />
   </a>
 </p>
+
 
 ---
 
